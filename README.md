@@ -1,7 +1,7 @@
-# Scope Lab
+# Scope Lab 
 
 ## Learning Goals
-
+ 
 - Understand how functions determine scope in JavaScript
 
 ## Introduction
