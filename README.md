@@ -24,7 +24,7 @@ Ok, these are your tasks:
   the `var` keyword.
 - `upperCaseCustomerName()`: Write a function that accesses that global
   `customerName` variable, and uppercases it.
-- `setBestCustomer()`: Write a function that when called, declares a variable
+- `setBestCustomer()`: Write a function that when called, declares a variable 
    called `bestCustomer` in global scope and assigns it to be `'not bob'`. (Poor
    Bob.) Also, poor us, declaring a global variable from inside a function is
    one of those things we would never want to do normally, but is good for us to
